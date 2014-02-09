@@ -10,5 +10,5 @@ don't want to buy a useless cable.
 
 Make sure to change two settings in the Arduino serial monitor:
 
-    1. Baud rate set to 115,200
-    2. Line ending set to NEWLINE
+1. Baud rate set to 115,200
+2. Line ending set to NEWLINE

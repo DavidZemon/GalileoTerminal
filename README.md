@@ -1,4 +1,5 @@
 Galileo Arduino Terminal Application
+====================================
 
 Running this application with the full-fat Linux operating system on the
 Galileo will give you an interactive shell-like environment without
@@ -8,5 +9,6 @@ is great, however, for setting up WiFi or running some basic commands if you
 don't want to buy a useless cable.
 
 Make sure to change two settings in the Arduino serial monitor:
-    1) Baud rate set to 115,200
-    2) Line ending set to NEWLINE
+
+    1. Baud rate set to 115,200
+    2. Line ending set to NEWLINE
